@@ -1,8 +1,3 @@
-kdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Sahar Alwakiy</h1>
 <h3 align="center">A passionate programmer from Isreal</h3>
 
